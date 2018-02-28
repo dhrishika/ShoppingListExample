@@ -45,14 +45,14 @@ $colors: (
 // App iOS Variables
 // --------------------------------------------------
 // iOS only Sass variables can go here
-
+$item-ios-detail-push-show: true; /* https://stackoverflow.com/questions/44469386/is-ion-list-supposed-to-automatically-add-an-arrow-on-the-list-item */
 
 
 
 // App Material Design Variables
 // --------------------------------------------------
 // Material Design only Sass variables can go here
-
+$item-md-detail-push-show: true;
 
 
 
